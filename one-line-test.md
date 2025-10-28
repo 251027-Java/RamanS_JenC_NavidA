@@ -1,2 +1,2 @@
-Hello World!
-Around the World in 80 Days!
+Hello World
+Hey Java!!
